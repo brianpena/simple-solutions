@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #313030;
+  color: #0D232E;
 }
 
 a {
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #0D232E;
+  background: #fff;
   font-size: 14px;
   padding: 0;
   color: rgba(255, 255, 255, 0.8);
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #topbar .contact-info i a, #topbar .contact-info i span {
   padding-left: 5px;
-  color: #fff;
+  color: #0D232E;
 }
 #topbar .contact-info i a {
   line-height: 0;
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 70px;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff;
+  background: #0D232E;
 }
 #header.header-fixed {
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 30px;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
-  color: #635551;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../img/medical-hero-bg.jpg") center center;
+  background: url("../img/logo-hero-bg.jpg") center center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -387,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: -10px;
   padding: 8px 26px 8px 26px;
   color: #fff;
-  background: #0d232e;
+  background: #0D232E;
   border-radius: 0 50px 50px 0;
   position: relative;
   z-index: 4;
@@ -435,7 +435,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f3f1;
+  background-color: #0D232E;
 }
 
 .section-title {
@@ -555,7 +555,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: black;
+  color: #C4B454;
   margin-bottom: 15px;
 }
 .about .icon-box {
@@ -591,7 +591,7 @@ section {
   font-size: 18px;
 }
 .about .icon-box .title a {
-  color: #343a40;
+  color: #C4B454;
   transition: 0.3s;
 }
 .about .icon-box .title a:hover {
@@ -605,6 +605,7 @@ section {
 .about .video-box {
   background: url("../img/matt-img.jpg") center center no-repeat;
   background-size: cover;
+  border: outset white;
   min-height: 500px;
 }
 .about .play-btn {

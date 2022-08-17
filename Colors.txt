@@ -1,0 +1,6 @@
+Dark Blue - #0D232E
+Light Blue - #378eba
+Vegas Gold - #C4B454
+White - #fff
+Grey - #635551
+Light Grey - #f5f3f1
